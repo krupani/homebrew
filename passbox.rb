@@ -1,8 +1,8 @@
 class Passbox < Formula
   desc "Ruby based minimalistic offline cli password manager using strong AES encryption"
   homepage "https://github.com/krupani/passbox"
-  url "https://github.com/krupani/passbox/archive/v2.0.0.tar.gz"
-  sha256 "bc438ece99c6c324a553a2218ae839cec780eecc06eacaf554a5929d58f28c39"
+  url "https://github.com/krupani/passbox/archive/v2.0.1.tar.gz"
+  sha256 "8573809e67a097559d1b8afe03d84e32991c5b1a9dda2338b8cf45f224a542a7"
   license "MIT"
 
   uses_from_macos "ruby"
